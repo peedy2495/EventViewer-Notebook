@@ -1,0 +1,39 @@
+{
+    "Div1" : [
+        {
+            "Type" : "Range",
+            "Name" : "SysA" ,
+            "On" : "SysA on",
+            "Off" : "SysA off",
+            "Kind" : "GroupA"
+        },
+        {
+            "Type" : "Event",
+            "Name" : "SysA",
+            "Event" : "SysA act",
+            "Kind" : "Group A"
+        },
+        {
+            "Type" : "Range",
+            "Name" : "SysB" ,
+            "On" : "SysB on",
+            "Off" : "SysB off",
+            "Kind" : "GroupA"
+        }
+    ],
+    "Div2" : [
+        {
+            "Type" : "Range",
+            "Name" : "SysA" ,
+            "On" : "SysA on",
+            "Off" : "SysA off",
+            "Kind" : "GroupB"
+        },
+        {
+            "Type" : "Event",
+            "Name" : "SysA",
+            "Event" : "SysA Act",
+            "Kind" : "GroupB"
+        }
+    ]
+}
